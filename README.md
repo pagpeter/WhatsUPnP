@@ -6,7 +6,7 @@ WhatsUpnp is a pure go CLI app to track down all UPnP devices on your network. I
 
 The easiest way to install WhatsUpnp is with the go install command.
 
-`go install https://github.com/wwhtrbbtt/WhatsUPnP`
+`go install github.com/wwhtrbbtt/WhatsUPnP@latest`
 
 ## Usage
 
