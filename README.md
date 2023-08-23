@@ -27,7 +27,7 @@ Usage of WhatsUPnP:
 Usage example:
 
 ```sh
-$ WhatsUPnP -v
+$ WhatsUPnP 
 
 Total responses: 111
 Unique devices: 5
